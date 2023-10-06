@@ -23,7 +23,7 @@
 //         <title>{siteTitle}</title>
 //       </Head>
 //       <section className={utilStyles.headingMd}>
-//         <p>Hi, I'm Gary. I am a junior back end developer living in Japan. I am excited to be learning Next.js through the tutorial on nextjs.org</p>
+//         <p>Hi, I'm Gary T. I am a junior back end developer living in Japan. I am excited to be learning Next.js through the tutorial on nextjs.org</p>
 //         <p>
 //           (This is a sample website - you’ll be building a site like this on{' '}
 //           <a href="https://nextjs.org/learn">our Next.js tutorial</a>.)
@@ -72,7 +72,7 @@ export default function Home({
         <title>{siteTitle}</title>
       </Head>
       <section className={utilStyles.headingMd}>
-        <p>Hi, I'm Gary T. I am a junior back end developer living in Japan. I am excited to be learning Next.js through the tutorial on nextjs.org</p>
+        <p>Hi, I'm Gary. I am a junior back end developer living in Japan. I am excited to be learning Next.js through the tutorial on nextjs.org</p>
         <p>
           (This is a sample website - you’ll be building a site like this in{' '}
           <a href="https://nextjs.org/learn">our Next.js tutorial</a>.)
